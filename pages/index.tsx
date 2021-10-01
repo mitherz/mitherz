@@ -1,5 +1,5 @@
 import Head from "next/head";
-import TerminalText from "../components/TerminalText";
+import TerminalText from "@components/TerminalText";
 
 export default function Home() {
   return (
